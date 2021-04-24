@@ -1,4 +1,4 @@
-# authscreen
+# Authscreen
 
 A new Flutter project.
 
