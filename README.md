@@ -16,9 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # ![Welcome Screen.png]
-<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/welcome.png" width="600" height="400">
+<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/welcome.png" width="400" height="600">
 # ![Log-In Screen.png]
-<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/login.png" width="600" height="400">
+<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/login.png" width="400" height="600">
 # ![Register Screen.png]
-<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/register.png" width="600" height="400">
+<img src="https://github.com/Sjdpk/Flutter-Login-Register-UI/blob/main/Screenshot/register.png" width="400" height="600">
 
